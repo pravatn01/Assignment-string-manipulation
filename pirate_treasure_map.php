@@ -7,3 +7,4 @@ $replace = str_replace("golden", "mystic", $clue);
 $upper = strtoupper($replace);
 // 4. Prints the final clue in uppercase.
 echo $upper;
+?>

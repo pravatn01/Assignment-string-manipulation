@@ -12,3 +12,4 @@ if ($lower == "abracadabra") {
 } else {
     echo "wizarding world is still at risk!";
 }
+?>

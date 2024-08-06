@@ -12,3 +12,4 @@ foreach ($arr as &$name) {
 //4. Joins the names into a single string with `*`.
 $new_arr = implode("*", $arr);
 echo $new_arr;
+?>
