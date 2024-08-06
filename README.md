@@ -11,7 +11,7 @@
 ## 2. Fantasy Character Name Generator
 
 **Question:** You’re creating names for fantasy characters. Write a PHP script that:
-1. Defines a string of character names separated by commas, `" "`.
+1. Defines a string of character names separated by commas, `"Gandalf,Aragorn,Legolas"`.
 2. Uses php build in function to split this string into an array of names.
 3. Converts each name to lowercase.
 4. Joins the names into a single string with `*`.
